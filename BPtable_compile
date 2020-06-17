@@ -1,0 +1,1 @@
+g++ -std=c++11 -O2 -fopenmp Z2.cpp mon_index.cpp BP.cpp BPQ.cpp BPtable.cpp exponents.cpp Qp.cpp Fp.cpp -I./ -lgmp -lgmpxx -Wall -Wfatal-errors -oBPtab
