@@ -1,0 +1,10 @@
+#pragma once
+#include"matrices/1.h"
+#include"matrices/2.h"
+#include"matrices/3.h"
+#include"matrices/4.h"
+#include"matrices/5.h"
+#include"matrices/6.h"
+#include"matrices/7.h"
+#include"matrices/8.h"
+#include"matrices/9.h"
