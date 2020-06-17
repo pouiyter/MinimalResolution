@@ -1,0 +1,1 @@
+g++ -std=c++11 -O2 ex_exponents.cpp ex_index.cpp ex2poly.cpp -Wall -I./ -fopenmp -oe2p

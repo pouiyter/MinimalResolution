@@ -1,0 +1,2 @@
+g++ -omr_ex  ex_steenrod_init.cpp ex_exponents.cpp ex_index.cpp ex_main.cpp ctau_steenrod.cpp Fp.cpp streams.cpp  -I./ -std=c++14 -fopenmp -O2 -Wfatal-errors
+

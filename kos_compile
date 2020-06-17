@@ -1,0 +1,1 @@
+g++ -std=c++11 steenrod.cpp steenrod_init.cpp kosul.cpp mon_index.cpp Fp.cpp exponents.cpp -fopenmp -Wall -I./ -okos
