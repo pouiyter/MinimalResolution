@@ -1,0 +1,1 @@
+g++ -O2 -omot_comb Fp.cpp streams.cpp mot_combine.cpp mot_steenrod.cpp exponents.cpp -fopenmp -Wall -Wfatal-errors -I./
