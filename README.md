@@ -4,6 +4,7 @@ The algorithm is explained in the pdf file MinimalResolution.pdf
 
 The codes can be compiled with GCC. The GNU Multiple Precision Arithmetic Library should be installed.
 
+******************************************************************************************************
 
 To compile, run the following batch files:
 
@@ -13,6 +14,7 @@ sh BPtable_complile
 
 sh BP_compile
 
+*******************************************************************************************************
 
 To get the minimal resolution for BP/I, for t<=50, s<=21 (say), run
 
@@ -26,6 +28,7 @@ To get the minimal resolution for BP, for t<=50, s<=20, run
 
 ./mr_BP 25 20
 
+*******************************************************************************************************
 
 Warning:
 
