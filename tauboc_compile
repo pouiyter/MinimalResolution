@@ -1,0 +1,1 @@
+g++ -std=c++11 -O2 taubocmain.cpp tao_bockstein.cpp mot_steenrod.cpp exponents.cpp -fopenmp -I./ -otauBoc

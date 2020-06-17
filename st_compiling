@@ -1,0 +1,1 @@
+g++ exponents.cpp Fp.cpp mon_index.cpp steenrod.cpp steenrod_init.cpp stmain.cpp -std=c++11  -I./ -Wall -Wfatal-errors -O2 -fopenmp -omr_st
